@@ -1,0 +1,5 @@
+{
+  "books_data_file": "/Users/mansurzainullin/MyCode/Python/Лабараторная работа по алгосам/FumcProgLabs/Books_recommendations/db/books_data.csv",
+  "top_genres_count": 500,
+  "genres_file": "db/genres_list.json"
+}
