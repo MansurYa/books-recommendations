@@ -310,7 +310,28 @@ python3.9 main.py
 
 ## Контрольный пример
 
+### Интерфейс
+<img width="1440" alt="1" src="https://github.com/user-attachments/assets/c75bb1b0-1e66-4333-a9c9-985a9b9ae8a0" />
 
+### Выбор жанров
+<img width="916" alt="2" src="https://github.com/user-attachments/assets/98147c4c-6879-4673-bdd1-679ea06fecf2" />
+
+
+### Заполнили поля и получили рекомендации
+<img width="1440" alt="3" src="https://github.com/user-attachments/assets/0f630067-0baa-4b2c-ae8e-2d2aba83e8c5" />
+
+
+### Добавляем книги в список "прочитать"
+<img width="1440" alt="4" src="https://github.com/user-attachments/assets/0d162156-e527-4564-95b4-fdc6717d232c" />
+
+
+### рис. 5 Cписок "прочитать"
+<img width="803" alt="5" src="https://github.com/user-attachments/assets/50a4a693-398c-4c53-95e8-659e2c63debb" />
+
+
+
+### Сохранили выбранные рекомендации в csv файл
+<img width="1139" alt="6" src="https://github.com/user-attachments/assets/b4fffb8b-2b2e-41c4-a1e4-8bf34e1fb7e7" />
 
 
 ---
